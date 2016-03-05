@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tristiaiii00oviduoft_0196.png"; bbox 0 0 2051 3181; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1016 0 2051 3181">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1016 0 2051 3181">
+     <span class='ocr_line' id='line_1_1' title="bbox 1016 0 2051 3181"><span class='ocrx_word' id='word_1_1' title='bbox 1016 0 2051 3181; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 143 246 322 3042">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 143 246 322 3042">
+     <span class='ocr_line' id='line_1_2' title="bbox 264 2801 322 3041; baseline -240 6480"><span class='ocrx_word' id='word_1_2' title='bbox 269 2801 322 2861; x_wconf 54' lang='lat' dir='ltr'>..xa</span> <span class='ocrx_word' id='word_1_3' title='bbox 264 2910 316 3041; x_wconf 70' lang='lat'><em>.0....</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 143 246 300 3042; baseline 116.5 -7223"><span class='ocrx_word' id='word_1_4' title='bbox 181 246 198 298; x_wconf 68' lang='lat' dir='ltr'>n!</span> <span class='ocrx_word' id='word_1_5' title='bbox 143 2782 300 3042; x_wconf 37' lang='lat' dir='ltr'>5onss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
